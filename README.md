@@ -1,1 +1,1 @@
-# threejs-wheel
+# ThreeJS Wheel
